@@ -1,0 +1,3 @@
+[submodule "project 1 - hmm-tagger"]
+	path = project 1 - hmm-tagger
+	url = git@github.com:NekuSakuraba/hmm-tagger.git
