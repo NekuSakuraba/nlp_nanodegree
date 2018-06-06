@@ -1,3 +1,6 @@
 [submodule "project 1 - hmm-tagger"]
 	path = project 1 - hmm-tagger
 	url = git@github.com:NekuSakuraba/hmm-tagger.git
+[submodule "project 2 - machine-translation"]
+	path = project 2 - machine-translation
+	url = git@github.com:NekuSakuraba/aind2-nlp-capstone.git
