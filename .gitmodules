@@ -4,3 +4,6 @@
 [submodule "project 2 - machine-translation"]
 	path = project 2 - machine-translation
 	url = git@github.com:NekuSakuraba/aind2-nlp-capstone.git
+[submodule "project 3 - dnn-speech-recognizer"]
+	path = project 3 - dnn-speech-recognizer
+	url = git@github.com:NekuSakuraba/AIND-VUI-Capstone.git
